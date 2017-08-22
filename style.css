@@ -1,0 +1,14 @@
+body {
+    background-color: #7c8ea3;
+}
+
+.grid {
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: #ebccd1;
+    padding: 10px 50px 50px 50px;
+    border-radius: 50px;
+    border: 2px solid #1c2d3f;
+    box-shadow: 10px 15px 5px #1c2d3f;
+}
