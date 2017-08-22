@@ -12,3 +12,48 @@ body {
     border: 2px solid #1c2d3f;
     box-shadow: 10px 15px 5px #1c2d3f;
 }
+
+.grid h1 {
+    font-family: Sans-Serif;
+    background-color: #2c4762;
+    font-size: 60px;
+    text-align: center;
+    color: #fff;
+    padding: 2px 0px;
+    border-radius: 50px;
+}
+
+.grid #question {
+    font-family: Sans-Serif;
+    font-size: 30px;
+    color: #2b2b2b;
+}
+
+.buttons {
+    margin-top: 30px;
+}
+
+#btn0, #btn1, #btn2, #btn3 {
+    background-color: #7c8ea3;
+    width: 250px;
+    font-size: 20px;
+    color: #fff;
+    border: 1px solid #1c2d3f;
+    border-radius: 50px;
+    margin: 10px 40px 10px 0px;
+    padding: 10px 10px;
+}
+
+#progress {
+    color: #2b2b2b;
+    font-size: 18px;
+}
+
+#btn0:hover, #btn1:hover, #btn2:hover, #btn3:hover {
+    cursor: pointer;
+    background-color: darkslategray;
+}
+
+#btn0:focus, #btn1:focus, #btn2:focus, #btn3:focus {
+    outline: 0;
+}
