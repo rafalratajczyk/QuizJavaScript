@@ -27,6 +27,7 @@ body {
     font-family: Sans-Serif;
     font-size: 30px;
     color: #2b2b2b;
+    text-align: center;
 }
 
 .buttons {
@@ -56,4 +57,10 @@ body {
 
 #btn0:focus, #btn1:focus, #btn2:focus, #btn3:focus {
     outline: 0;
+}
+
+#score {
+    color: #7c8ea3;
+    text-align: center;
+    font-size: 30px;
 }
